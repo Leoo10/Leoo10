@@ -59,7 +59,6 @@ You can find me on these platforms:
 
 ---
 
-## something else
 
   
 ## GitHub Stats
