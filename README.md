@@ -26,6 +26,8 @@ Here are some of the projects that I have worked on or contributed to:
 
 [E-COMMERCE-ISPC-KILL-CODE](https://github.com/IgnacioCarnero/E-COMMERCE-ISPC-KILL-CODE): An online shop for entrepreneurs' solutions, where I was in charge of creating the payroll for employees.
 
+[Leoo10.github.io](https://github.com/Leoo10/Leoo10.github.io): Here, I am developing my personal portfolio on this GitHub page.
+
 ---
 
 ## My hobbies 🎮
