@@ -7,7 +7,7 @@ I'm a **German-Argentinian** citizen who loves **programming**, **learning new l
 ## About me 🙋‍♂️
 
 - 🏠 I live in **Fleckeby**, Germany
-- 📞 You can reach me at **(+49) 15207478621** or **cuestasmanthai@gmail.com**
+- 📞 You can reach me at **(+49) 15207478621** or **cuestasmanthail@gmail.com**
 - 🌐 I speak **German** (native), **Spanish** (C1), and **English** (B2) according to the **Common European Framework of Reference for Languages** (CEFR)
 - 🎓 I have a **secondary school diploma** from the **Freie Waldorfschule** in Eckernförde, Germany (2019)
 - 🌎 I participated in a **cultural student exchange** at the **Instituto Parroquial Nuestra Señora del Carmen** in Córdoba, Argentina (2019)
