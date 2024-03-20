@@ -25,6 +25,7 @@ Here are some of the projects that I have worked on or contributed to:
 [proyecto-app-mobile](https://github.com/Proyectos-ISPC/proyecto-app-mobile): An Android app developed with Android Studio in Java, where I was responsible for structured data storage for user comments within the library app.
 
 [E-COMMERCE-ISPC-KILL-CODE](https://github.com/IgnacioCarnero/E-COMMERCE-ISPC-KILL-CODE): An online shop for entrepreneurs' solutions, where I was in charge of creating the payroll for employees.
+
 [First-Project](https://github.com/Leoo10/First-Project): This is my first independent project, an online store dedicated to my favorite DJ. The project is quite extensive and therefore requires more time for completion. I am currently addressing issues such as responsive design, which is particularly challenging in this case. Additionally, I am in the process of integrating backend functionalities using Django. The project has already been initiated with Angular. 
 
 
